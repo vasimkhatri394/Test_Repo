@@ -11,7 +11,7 @@
 #define FAIL -1
 #define NIL 0
 #define PRABHAKAR 1
-
+#define VASIM 0
 
 
 // typedef unsigned char UINT8PTR;
