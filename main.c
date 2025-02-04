@@ -10,6 +10,11 @@
 #define AES_TAG_SIZE 16  // AES GCM tag size (16 bytes)
 #define FAIL -1
 #define NIL 0
+//New Comment
+
+
+
+#define VASIM 0
 
 // typedef unsigned char UINT8PTR;
 
